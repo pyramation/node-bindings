@@ -1,8 +1,8 @@
 {
   "targets": [
       {
-        "target_name":"hi",
-        "sources":[ "hi.cc" ]
+        "target_name":"hello",
+        "sources":[ "hello.cc" ]
       }
   ]
 }

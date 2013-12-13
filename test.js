@@ -1,1 +1,1 @@
-require('./build/Release/hi.node')
+require('./build/Release/hello.node')
